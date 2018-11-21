@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace Wzor
 {
-    class Budowniczy
+    abstract class Budowniczy
     {
+
+        public abstract void CreatName(string Name);
+        public abstract void CreatAddress(string address);
+        public abstract void CreatOrder(List<Book> booksOrder);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
