@@ -11,6 +11,8 @@ namespace Wzor
 
         public Order OrderInstance { get; private set; }
 
+        public int liczba;
+
         public KonkretnyBudowniczy1()
         {
             OrderInstance = new Order();
