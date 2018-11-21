@@ -46,6 +46,7 @@
     <Compile Include="Budowniczy.cs" />
     <Compile Include="KierownikBudowy.cs" />
     <Compile Include="KonkretnyBudowniczy1.cs" />
+    <Compile Include="KonkretnyBudowniczy2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
